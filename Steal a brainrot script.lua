@@ -6,7 +6,7 @@ local e = game:GetService("Workspace")
 local f = 1
 
 -- KEY SYSTEM
-local correctKey = "LACAZETTE-BBXZTiQK0N" -- Setze hier deinen Schlüssel ein
+local correctKey = "LACAZETTE" -- Setze hier deinen Schlüssel ein
 
 do
     local keyGui = Instance.new("ScreenGui", a.PlayerGui)
