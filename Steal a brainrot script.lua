@@ -140,7 +140,7 @@ do
     l.Size = UDim2.new(1, 0, 0, 26)
     l.Position = UDim2.new(0, 0, 0.66, 0)
     l.BackgroundTransparency = 1
-    l.Text = "Youtube-xrn7ato"
+    l.Text = "Laccazette"
     l.Font = Enum.Font.Gotham
     l.TextSize = 19
     l.TextColor3 = Color3.new(1, 1, 1)
